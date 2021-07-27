@@ -1,8 +1,8 @@
-iiclass Hello
+iiiclass Hello
 {
 public static void main(String args[])
 {
-System.out.println("making changes in origin");
+System.out.println("Merging to master");
 }
 }
 
